@@ -11,13 +11,13 @@ namespace uMassager
     public interface IService1
     {
         [OperationContract]
-        int Connect();
+        int Connect(string _name);
         
         [OperationContract]
         void Disconnect(int id);
 
         [OperationContract(IsOneWay = true)]
-        void SendMassage(string _massage);
+        void SendMassage(string _massage, int ID);
     }
 
     public interface IServerChatCallback

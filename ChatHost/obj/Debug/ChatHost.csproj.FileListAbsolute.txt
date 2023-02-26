@@ -1,0 +1,12 @@
+D:\GitHub\ASP.NET.server_ms\ChatHost\bin\Debug\ChatHost.exe.config
+D:\GitHub\ASP.NET.server_ms\ChatHost\bin\Debug\ChatHost.exe
+D:\GitHub\ASP.NET.server_ms\ChatHost\bin\Debug\ChatHost.pdb
+D:\GitHub\ASP.NET.server_ms\ChatHost\bin\Debug\uMassager.dll
+D:\GitHub\ASP.NET.server_ms\ChatHost\bin\Debug\uMassager.pdb
+D:\GitHub\ASP.NET.server_ms\ChatHost\bin\Debug\uMassager.dll.config
+D:\GitHub\ASP.NET.server_ms\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+D:\GitHub\ASP.NET.server_ms\ChatHost\obj\Debug\ChatHost.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\ASP.NET.server_ms\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+D:\GitHub\ASP.NET.server_ms\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+D:\GitHub\ASP.NET.server_ms\ChatHost\obj\Debug\ChatHost.exe
+D:\GitHub\ASP.NET.server_ms\ChatHost\obj\Debug\ChatHost.pdb
